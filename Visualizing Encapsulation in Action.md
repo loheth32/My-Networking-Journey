@@ -2,6 +2,8 @@
 
 I built a simple client-server topology in Cisco Packet Tracer to observe how Protocol Data Units (PDUs) are constructed and deconstructed during an HTTP request. This hands-on lab visually demonstrates the core concepts of encapsulation and decapsulation.
 
+![Screenshot of the client-server topology](client-server.png)
+
 #### 1. The Outgoing Request: Encapsulation
 
 The following screenshot shows the outbound PDU details on the client PC as it prepares to send the HTTP request. You can clearly see how each layer adds its own header—wrapping the data from the layer above it—before sending the final frame.
