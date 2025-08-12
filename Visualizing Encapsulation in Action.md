@@ -12,4 +12,4 @@ The following screenshot shows the outbound PDU details on the client PC as it p
 
 This second screenshot shows the HTTP response packet sent from the server back to the client. It's a great example of how the source and destination IP addresses and ports are swapped for the return journey.
 
-![Screenshot of the inbound HTTP Response packet](HTTP Response.png)
+![Screenshot of the inbound HTTP Response packet](HTTP-Response.png)
