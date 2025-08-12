@@ -1,5 +1,3 @@
-# My Networking Journey
-
 ## Chapter 1: The Foundations of Networking - Foundational Concepts
 
 ### Core Models: The Blueprints of Communication
